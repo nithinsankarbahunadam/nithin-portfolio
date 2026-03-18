@@ -24,7 +24,7 @@ Personal portfolio website built with React, TypeScript, Three.js, and GSAP.
 
 ### Prerequisites
 
-> This project uses **GSAP trial plugins** (`gsap-trial`). The trial version works locally but **cannot be used for hosting**. For production deployment, replace it with a [GSAP Club](https://gsap.com/docs/v3/Installation/) license.
+> This project uses the standard `gsap` package, which includes all plugins (SplitText, ScrollSmoother, etc.) for free as of April 2025.
 
 ### Install & Run
 
